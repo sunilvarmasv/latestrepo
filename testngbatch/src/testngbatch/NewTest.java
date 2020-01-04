@@ -12,6 +12,7 @@ public class NewTest {
   @Test
   public void f2() {
 	  System.out.println("This is from batch , this will be skipped");
+	  //Added something
 	  
   }
   
